@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  height: 100vh;
+}
+
+a {
+  display: block;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 20px 10px;
+  margin: 40px;
+  text-decoration: none;
+  color: red;
+  background-color: #fff;
+  border-radius: 50px;
+  text-align: center;
+}
+
+a:hover {
+  background-color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+h3 {
+  text-align: center;
+}
